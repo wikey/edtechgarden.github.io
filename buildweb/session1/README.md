@@ -1,3 +1,5 @@
+# Session 1
+
 ## Why are we building websites?
 
 There are a number of reasons why you might want your own website. Maybe you want to have your email, web content, and other parts of your digital identity all in a stable place over which you have complete control. Maybe you are looking for capabilities, like building the kind of [interactive learning exercises](http://edtechgarden.org/2016/01/06/self-publishing-some-h5p-tests/) that accompany digital textbooks, that you cannot get from commercial offerings. Maybe you want more control over the format and presentation of your materials or want to help protect the privacy of people who touch that material. Perhaps you simply want to understand how some of the fundamental technologies of our networked society function. Building your own site can help with all of these things and more. 
