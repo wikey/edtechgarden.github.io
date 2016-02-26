@@ -1,5 +1,7 @@
 *[Return to Session 1](./README.md)*
 
+# Task: Personal Web Use Survey
+
 Before building you own corner of the web you should have an idea of what you actually use online. The more of your normal activities that your site can support, or at least integrate with, the more likely you are to keep using it and the more likely it is to actually be useful for you. 
 
 For the next two or three days I would like you to track your own online behaviour. You can use whatever tools you want, I plan to use paper and looking through my browser history, but try and keep track of the sites you visit and the apps you use during these days. 
