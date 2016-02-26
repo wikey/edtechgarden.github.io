@@ -1,3 +1,5 @@
+*[Back to Session 2](./README.md)*
+
 # What is WordPress?
 
 By now you have seen the word "WordPress" mentioned more than a dozen times, you know it runs [25% of all websites](http://venturebeat.com/2015/11/08/wordpress-now-powers-25-of-the-web/), and that we are going to be using it to build our websites during this course, but what exactly is it? We [have seen](../session1/webparts.md) that webpages are actually just documents while a webserver is just a computer configured to gives you those documents when you load a webpage. WordPress is built to fit in between these two pieces in order to make your job of creating and editing web pages easier.
