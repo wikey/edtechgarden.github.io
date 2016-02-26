@@ -46,15 +46,15 @@ I mention all of this to make clear from the outset that putting something onlin
 
 #### Accessibility Challenge ####
 
-*For anyone who is interested in seeing what online participation looks like for a student whose only internet access, and likely only computer access, it through a smart phone, I challenge you to take this course only using your smart phone. Like most educational technology, everything in this course **should** work on a small screen but the experience will most certainly be different.*
+_For anyone who is interested in seeing what online participation looks like for a student whose only internet access, and likely only computer access, it through a smart phone, I challenge you to take this course only using your smart phone. Like most educational technology, everything in this course **should** work on a small screen but the experience will most certainly be different._
 
 ### Getting an online "A" ###
 
 To me, success in this course consists of three things:
 
-1) Build yourself a platform
-2) Contribute something to the group
-3) Publish something to improve the course for next time
+1) Build yourself a platform    
+2) Contribute something to the group    
+3) Publish something to improve the course for next time    
 
 Because we are not actually giving grades, we can define what each of these points means as flexibly as we want. I especially want to encourage those of you who are less comfortable with some of the more common assigned participation formats in courses, i.e. chat sessions, mandatory "response" postings, etc, to try out some different kinds of contributions that you may have seen in other online contexts. 
 
