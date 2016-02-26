@@ -1,3 +1,5 @@
+*[Back to Session 2](./README.md)*
+
 # Reading: DNS registration privacy
 
 ## Do I have to give them my real name?
