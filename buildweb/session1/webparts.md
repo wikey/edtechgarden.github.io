@@ -1,4 +1,4 @@
-*[Back to Session 1](./README.md)*
+*[Back to Session 1](./index.html)*
 
 # What is a webpage?
 
