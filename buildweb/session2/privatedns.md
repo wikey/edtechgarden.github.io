@@ -1,4 +1,4 @@
-*[Back to Session 2](./README.md)*
+*[Back to Session 2](./index.html)*
 
 # Reading: DNS registration privacy
 
