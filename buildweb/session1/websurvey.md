@@ -1,4 +1,4 @@
-*[Return to Session 1](./README.md)*
+*[Return to Session 1](./index.html)*
 
 # Task: Personal Web Use Survey
 
