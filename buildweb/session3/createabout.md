@@ -1,5 +1,7 @@
 *[Back to session 3](./index.html)*
 
+# Task: Create an "About" page for your site
+
 Now that you know [what pages are](./wordpressanatomy.html) in WordPress, you should create at least an "About" page for your site. Whatever kind of site you are trying to build, an About page gives you the opportunity to tell us about who you are and about your goals for the site it is a good thing to have.
 
 Creating a new page in WordPress is straightforward. From your administration dashboard simply move your mouse to the "Pages" option on the left-hand menu. If you let your mouse hover over the word "Pages" you should get a menu of options related to "Pages" including "All Pages" and "Add New". You can either click on "Add New" from this pop up menu or you can simply click on "Pages" to load the full pages administration area and click the "Add New" button there. All of the main menus in WordPress have these hover menus for the most often used commands.
