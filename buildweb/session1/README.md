@@ -12,7 +12,7 @@ Wordpress is actually such a flexible piece of software that it can be used to b
 
 ## Why Reclaim Hosting?
 
-If you read the "Prerequisites" section of the [About page](../README.md) you will know that we are going to be signing up with [Reclaim Hosting](https://reclaimhosting.com/) as part of this course, which is a commercial operation that spun off of the University of Mary Washington's [Domain of One's Own](http://umw.domains/) initiative. 
+If you read the "Prerequisites" section of the [About page](../index.html) you will know that we are going to be signing up with [Reclaim Hosting](https://reclaimhosting.com/) as part of this course, which is a commercial operation that spun off of the University of Mary Washington's [Domain of One's Own](http://umw.domains/) initiative. 
 
 Much of what we will be doing here will work just as well on other paid Wordpress hosting platforms,  on free Wordpress accounts sites like wordpress.com, or even on other public blogging sites like medium.com or tumblr.com. So, if the funds are not available, or you would prefer to spend them elsewhere, you should still be able to participate in this course. 
 
@@ -38,7 +38,7 @@ That said, I encourage paying for hosting, and paying for hosting from Reclaim H
 
 ### Site Building
 
-* Task: [Personal Web Use Survey](./websurvey.md)
+* Task: [Personal Web Use Survey](./websurvey.html)
 
 ### Online Courses
 
@@ -49,4 +49,4 @@ That said, I encourage paying for hosting, and paying for hosting from Reclaim H
 
 ### Web Fundamentals
 
-* Read: [Parts of your website, parts of the web](./webparts.md) (html, css, &amp; hosting)
+* Read: [Parts of your website, parts of the web](./webparts.html) (html, css, &amp; hosting)
