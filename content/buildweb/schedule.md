@@ -1,18 +1,26 @@
+Title: Schedule
+Date: 2016-03-14 16:00
+Category: buildweb
+Tags: buildweb
+Type: section
+Slug: schedule
+save_as: buildweb/schedule.html
+
 This course is broken up into five components that I am calling "Sessions" here, each spaced two weeks apart. You can complete the readings and tasks for each session any time during those two weeks and still keep pace with the class. 
 
-* [Session 1: What and Why?](./session1/README.md)     
+* [Session 1: What and Why?](./session1.html)     
    Feb 08 - Feb 19 - - - (in person on Feb 10)
 
-* [Session 2: Staking a claim](./session2/README.md)    
+* [Session 2: Staking a claim](./session2.html)    
    Feb 12 - Mar 04 - - - (in person on Feb 24)
 
-* [Session 3](./session3/README.md)     
+* [Session 3](./session3.html)     
    Mar 07 - Mar 18 - - - (in person on Mar 10)
 
-* [Session 4](./session4/README.md)      
+* [Session 4](./session4.html)      
    Mar 21 - Apr 01 - - - (in person on Mar 23)
 
-* [Session 5](./session5/README.md)      
+* [Session 5](./session5.html)      
    Apr 04 - Apr 15 - - - (in person on Apr 05)
 
 Readings and exercises for each session are organized into three themes:  "Site Building", "Online Courses", and "Web Fundamentals". Tasks related directly to building your own site will be under "Site Building" while the material in "Online Courses" will center on the practical and social realities of online courses. Finally, "Web Fundamentals" will give a better handle on the tools that make our sites work and how you can can improve your proficiency with them. While the course is designed to address all three of these themes, I have kept the elements separated enough that you can follow along in just one or two areas if you do not have the interest or availability to complete all three. 

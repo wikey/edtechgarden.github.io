@@ -1,6 +1,10 @@
-*[Back to Session 2](./index.html)*
+Title: Task: Ethnography of an online community          
+Date: 2016-03-14 16:00
+Category: buildweb
+Tags: session2
+Slug: ethnographyonline
 
-# Task: Ethnography of an online community
+*[Back to Session 2](./session2.html)*
 
 ## Stranger in a strange land
 

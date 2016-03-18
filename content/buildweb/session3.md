@@ -1,3 +1,10 @@
+Title: Session 3
+Date: 2016-03-14 16:00
+Category: buildweb
+Tags: session3
+Type: section
+Slug: session3
+
 ## Tasks
 
 ### Site Building
@@ -25,7 +32,7 @@ Once you have tried a few of the themes you already have, click ""Add New" butto
 
 ### Is this your look?
 
-This is a great time to take another look at your [personal web usage survey](../session1/websurvey.html) to see what kinda of things you want online. If you are looking for a professional portfolio or résumé site, try searching for those terms in the theme browser. The results are probably going to be clean modern themes with only a handful of visual elements. If you want to run a site for a class or a special project, try looking for themes that have more elements and activity on the front page. Those will give you more options to play with later on. Most themes used for bogging should work fine for a class or project site as well. 
+This is a great time to take another look at your [personal web usage survey](./websurvey.html) to see what kinda of things you want online. If you are looking for a professional portfolio or résumé site, try searching for those terms in the theme browser. The results are probably going to be clean modern themes with only a handful of visual elements. If you want to run a site for a class or a special project, try looking for themes that have more elements and activity on the front page. Those will give you more options to play with later on. Most themes used for bogging should work fine for a class or project site as well. 
 
 All of the themes listed in the official WordPress theme list are free to use but many of them will hide some of their features behind paid upgrades so you may run into themes that looked better in their demo than they do on your site. Some of that can be changed with settings but, if you find out that the feature you really wanted is only available in the paid version, you should probably head back to the theme list and look for another one. There are so many great themes out there for free that there is no reason for you to pay for one unless you have a very specific need. If you find a theme that you really like and want to support that theme's development, many themes have donate buttons and they all appreciate good reviews on the WordPress theme site.
 

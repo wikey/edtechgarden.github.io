@@ -1,3 +1,10 @@
+Title: Sesson 5
+Date: 2016-03-14 16:00
+Category: buildweb
+Tags: session5
+Type: section
+Slug: session5
+
 # *Draft Outline*
 
 ### Site Building

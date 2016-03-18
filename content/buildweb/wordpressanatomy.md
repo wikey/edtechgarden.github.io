@@ -1,6 +1,10 @@
-*[Back to Session 3](./index.html)*
+Title: Anatomy of a Wordpress site
+Date: 2016-03-14 16:00
+Category: buildweb
+Tags: session3
+Slug: wordpressanatomy
 
-# Reading: Anatomy of a WordPress site
+*[Back to Session 3](./session3.html)*
 
 Depending on what themes you tried on, you may have seen items on your site rearrange, disappear, or seen new items appear. Controlling which of the basic WordPress elements show up on a page is one of the basic jobs for a theme. This is also one of the main ways that you will be customizing the functionality of tour site so let's take a quick look at the basic WordPress elements (don't worry, you secretly already know most of them). WordPress sites are built from 5 basic building blocks.
 

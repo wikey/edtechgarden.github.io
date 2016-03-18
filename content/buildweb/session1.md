@@ -1,4 +1,9 @@
-# Session 1
+Title: Session 1           
+Date: 2016-03-14 16:00
+Category: buildweb
+Tags: session1
+Type: section
+Slug: session1
 
 ## Why are we building websites?
 
@@ -12,7 +17,7 @@ Wordpress is actually such a flexible piece of software that it can be used to b
 
 ## Why Reclaim Hosting?
 
-If you read the "Prerequisites" section of the [About page](../index.html) you will know that we are going to be signing up with [Reclaim Hosting](https://reclaimhosting.com/) as part of this course, which is a commercial operation that spun off of the University of Mary Washington's [Domain of One's Own](http://umw.domains/) initiative. 
+If you read the "Prerequisites" section of the [About page](./buildweb.html) you will know that we are going to be signing up with [Reclaim Hosting](https://reclaimhosting.com/) as part of this course, which is a commercial operation that spun off of the University of Mary Washington's [Domain of One's Own](http://umw.domains/) initiative. 
 
 Much of what we will be doing here will work just as well on other paid Wordpress hosting platforms,  on free Wordpress accounts sites like wordpress.com, or even on other public blogging sites like medium.com or tumblr.com. So, if the funds are not available, or you would prefer to spend them elsewhere, you should still be able to participate in this course. 
 

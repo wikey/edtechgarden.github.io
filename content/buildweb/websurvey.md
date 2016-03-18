@@ -1,6 +1,10 @@
-*[Return to Session 1](./index.html)*
+Title: Task: Personal Web Use Survey          
+Date: 2016-03-14 16:00
+Category: buildweb
+Tags: session1
+Slug: websurvey
 
-# Task: Personal Web Use Survey
+*[Return to Session 1](./session1.html)*
 
 Before building you own corner of the web you should have an idea of what you actually use online. The more of your normal activities that your site can support, or at least integrate with, the more likely you are to keep using it and the more likely it is to actually be useful for you. 
 
@@ -10,4 +14,3 @@ Some things to consider: how important is being able to publish to or copy from 
 
 If you have questions about how a particular interest or piece of web that you use could be incorporated into a personal site, please ask on [the discussion board][2] [*qq FIX this link once we have a discussion board*]. Next week we will be choosing the general layout of our sites and that will be much easier for you if you have worked through some of these questions in advance.
 
-  [2]: https://courses.p2pu.org/en/courses/3334/discussion/

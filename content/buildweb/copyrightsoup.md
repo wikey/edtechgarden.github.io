@@ -1,6 +1,11 @@
-*[Back to Session 3](./index.html)*
+Title: Reading - Copyright soup - CC, OER, & Bears, oh my!           
+Date: 2016-03-14 16:00
+Category: buildweb
+Tags: session3
+Slug: copyrightsoup
 
-# Reading: Copyright soup - CC, OER, & Bears, oh my!
+
+*[Back to Session 3](./session3.html)*
 
 Now that you are posting things to your own online space we should take a moment to look at copyright and some of the related concepts like OER and Open Access that are important in education.
 

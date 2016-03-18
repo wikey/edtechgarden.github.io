@@ -1,10 +1,17 @@
-# Session 2: Staking a claim
+Title: Session 2          
+Date: 2016-03-14 16:00
+Category: buildweb
+Tags: session2
+Type: section
+Slug: session2
 
-Now that we have a better idea of what [web hosting](../session1/webparts.hyml) is and how we [spend our time online](../session1/websurvey.html), it is time to start building our own little corner of the internet. 
+## Staking a claim
+
+Now that we have a better idea of what [web hosting](./webparts.html) is and how we [spend our time online](./websurvey.html), it is time to start building our own little corner of the internet. 
 
 #### Steps 1 &amp; 2: Sign up for Reclaim hosting
 
-Your first step to building an online space with Reclaim is to sign up. As mentioned in the "Why Pay?" and the "Why Pay Reclaim?" sections of [Session 1](../session1/index.html), signing up with Reclaim costs $25 a year. For that $25 Reclaim does two big things for you: they register a domain name of your choice so you have a unique address online, and they give you space on their servers for your web pages, attachments, and apps. Having a domain name is going to let you have email addresses at your own domain, which can be an important permanent point of contact, especially for graduate students who are likely to move through a handful of academic email addresses in their careers but may want to use something a little more durable and sophisticated than a public gmail or yahoo address for job searches.  
+Your first step to building an online space with Reclaim is to sign up. As mentioned in the "Why Pay?" and the "Why Pay Reclaim?" sections of [Session 1](./session1.html), signing up with Reclaim costs $25 a year. For that $25 Reclaim does two big things for you: they register a domain name of your choice so you have a unique address online, and they give you space on their servers for your web pages, attachments, and apps. Having a domain name is going to let you have email addresses at your own domain, which can be an important permanent point of contact, especially for graduate students who are likely to move through a handful of academic email addresses in their careers but may want to use something a little more durable and sophisticated than a public gmail or yahoo address for job searches.  
 
 You sign up for Reclaim by filling out [this form](https://portal.reclaimhosting.com/cart.php?a=add&amp;pid=2). The first part of signing up is picking your domain name. This is worth some thought so spend a minute trying different names and seeing which ones are available before you pick one.  
 

@@ -1,3 +1,10 @@
+Title: Session 4
+Date: 2016-03-14 16:00
+Category: buildweb
+Tags: session4
+Type: section
+Slug: session4
+
 # *Draft Outline*
 
 ### Site Building

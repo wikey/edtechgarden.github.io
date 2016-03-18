@@ -1,6 +1,12 @@
-*[Back to Session 1](./index.html)*
+Title: Parts of a website, parts of the web           
+Date: 2016-03-14 16:00
+Category: buildweb
+Tags: session1
+Slug: webparts
 
-# What is a webpage?
+*[Back to Session 1](./session1.html)*
+
+## What is a webpage?
 
 Many of the metaphors related to web pages treat them as places. You "visit" a site, you "follow" a link, even we are talking about "reclaiming" our own corner of the web like it were an occupied land. These metaphors help capture the experience of using the internet but they mask the real nature of that network. 
 

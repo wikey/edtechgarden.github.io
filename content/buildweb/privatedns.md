@@ -1,6 +1,10 @@
-*[Back to Session 2](./index.html)*
+Title: Reading: DNS Registration privacy          
+Date: 2016-03-14 16:00
+Category: buildweb
+Tags: session2
+Slug: privatedns
 
-# Reading: DNS registration privacy
+*[Back to Session 2](./session2.html)*
 
 ## Do I have to give them my real name?
 
